@@ -67,4 +67,4 @@ The analysis successfully identifies the "Who, When, and Where" of crime in Los 
 
 I am a passionate data analyst dedicated to deriving actionable insights from complex datasets. My expertise lies in Python, SQL, Excel, and Data Visualization.
 
-*   **LinkedIn:** [Haseeb Uddin Q.](https://www.linkedin.com/in/haseeb-uddin-q/)
+*   **LinkedIn:** [Haseeb Uddin](https://www.linkedin.com/in/haseeb-uddin-q/)
