@@ -61,10 +61,21 @@ The analysis successfully identifies the "Who, When, and Where" of crime in Los 
     jupyter notebook Los_Angeles_crime_analysis.ipynb
     ```
 
-## 👤 About the Author
-**Haseeb**
-*Freelance Data Analyst*
 
-I am a passionate data analyst dedicated to deriving actionable insights from complex datasets. My expertise lies in Python, SQL, Excel, and Data Visualization.
+## 👤 Author
 
-*   **LinkedIn:** [Haseeb Uddin](https://www.linkedin.com/in/haseeb-uddin-q/)
+**Haseeb Uddin**  
+*Data Analyst*
+
+| Platform | Link |
+|----------|------|
+| 🐙 GitHub | [github.com/Haseeb-U](https://github.com/Haseeb-U) |
+| 💼 LinkedIn | [linkedin.com/in/haseeb-uddin-q/](https://www.linkedin.com/in/haseeb-uddin-q/) |
+| 📊 Kaggle | [kaggle.com/haseebhsb](https://www.kaggle.com/haseebhsb) |
+| 📊 Portfolio | [https://haseeb-u.github.io/](https://haseeb-u.github.io/) |
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
